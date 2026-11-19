@@ -6,7 +6,7 @@ Discover the darker side of your personality with the **7 Deadly Sins Test**, a 
 
 Explore your personality traits, uncover your dominant sin, and learn how the seven deadly sins may reflect everyday thoughts, emotions, and behaviors.
 
-![7 Deadly Sins Personality Test Preview](./7deadly.png)
+[![7 Deadly Sins Personality Test Preview](./7deadly.png)](https://7deadlysins-test.org/)
 
 ### 🔥 Take the Free 7 Deadly Sins Test
 
